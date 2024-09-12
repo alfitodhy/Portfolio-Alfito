@@ -10,9 +10,9 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const inter = Inter({ subsets: ["latin"] });
-const baseUrlMeta = `${new URL("https://alfito-portofolio.vercel.app")}`;
+const baseUrlMeta = `${new URL("https://portfolio-alfitodhy.vercel.app")}`;
 export const metadata = {
-  metadataBase: new URL("https://alfito-portofolio.vercel.app"),
+  metadataBase: new URL("https://portfolio-alfitodhy.vercel.app"),
   title: "Alfito Dhiyu Priawan | Portfolio",
   description:
     "Alfito Dhiyu Priawan is a web developer with 2 years of experience.",
