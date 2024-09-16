@@ -2,10 +2,6 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import wartafenoImg from "@/public/images/project/wartefeno/1.png";
-import siakadImg from "@/public/images/project/siakad/1.png";
-import amikomImg from "@/public/images/project/amikom/1.png";
-import hrtoolsImg from "@/public/images/project/hr-tools/1.png";
 
 export const links = [
   {
@@ -38,14 +34,14 @@ export const experiencesData = [
     title: "Freelance",
     location: "Web Development, Graphic Designer",
     description:
-      "Web developers are responsible for designing and maintaining websites using programming languages ​​such as HTML, CSS, PHP, and JavaScript, as well as optimizing site performance. They work on a project basis with flexible schedules and variable incomes. Meanwhile, graphic designers focus on creating visual elements such as logos and promotional materials using design software such as Adobe Illustrator and Photoshop.",
+      "Developing web applications from front-end design to back-end implementation, ensuring a seamless user experience. Designing visually appealing graphics, including thumbnails, banners, and brochures, tailored to your brand and project needs.",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - Now",
   },
 
   {
     title: "Universitas Muhammadiyah Bengkulu",
-    location: "Informatics Engineering, Gpm. 3.81",
+    location: "Informatics Engineering, GPA. 3.81",
     description: "",
     icon: React.createElement(CgWorkAlt),
     date: "September 2020 - Mei 2024",
@@ -88,6 +84,7 @@ export const projectsData = [
     ],
     languages: ["CodeIgniter 3", "Bootstrap 5", "MYSQL 8.0", "JavaScript"],
   },
+
   {
     title: "PM. PRODIGY",
     description:
@@ -115,6 +112,168 @@ export const projectsData = [
     ],
     languages: ["CodeIgniter 3", "Bootstrap 5", "MYSQL 8.0", "JavaScript"],
   },
+
+  {
+    title: "Magazine RUSH",
+    description:
+      "This magazine contains information on how to guide the mental well-being of students together with teachers at SMA 5 Kota Bengkulu, tips and tricks for handling panic attacks, as well as references to tourist attractions in Bengkulu.",
+    screenshots: [
+      "images/project/majalah/2. promkes.png",
+      "images/project/majalah/5. klink2.png",
+      "images/project/majalah/13. poster.png",
+      "images/project/majalah/14. iklan.png",
+      "images/project/majalah/11. unicef.png",
+    ],
+    image: "images/project/majalah/RUSH.png",
+    tech: [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+    ],
+    demoUrl: "images/project/majalah/RUSH2.pdf",
+    githubUrl: "",
+    features: [
+      "Parenting children's mental health",
+      "Clinic locations",
+      "tips and tricks",
+      "News",
+      "Traveling",
+    ],
+    languages: ["Adobe Photoshop"],
+  },
+
+  {
+    title: "Brochure Designs",
+    description:
+      "Brochure design is the process of creating printed materials used to convey information concisely and in an organized manner. Brochures are often used for promotional, informational, or educational purposes. Here are some types of brochures I have worked on.",
+    screenshots: [
+      "images/project/brosur/brosur.png",
+      "images/project/brosur/bull.png",
+      "images/project/brosur/fito.png",
+      "images/project/brosur/petra.png",
+      "images/project/brosur/pubg.png",
+      "images/project/brosur/original.png",
+      "images/project/brosur/pedas.png",
+      "images/project/brosur/coklat.png",
+    ],
+    image: "images/project/brosur/brosurdepan.png",
+    tech: [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+    ],
+    demoUrl: "",
+    githubUrl: "",
+    features: ["Promotion Brochure.", "Contest Brochure.", "Product Brochure."],
+    languages: ["Adobe Photoshop"],
+  },
+
+  {
+    title: "Poster Designs",
+    description:
+      "Posters are visual media used to convey messages briefly and clearly to the audience. Here are some types of posters that I have worked on.",
+    screenshots: [
+      "images/project/poster/absen.png",
+      "images/project/poster/movie.png",
+      "images/project/poster/buku.png",
+      "images/project/poster/bawang.png",
+      "images/project/poster/promosi2.png",
+      "images/project/poster/merdeka.png",
+      "images/project/poster/poging.png",
+      "images/project/poster/rytos.png",
+      "images/project/poster/senam.png",
+    ],
+    image: "images/project/poster/posterdepan.png",
+    tech: [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+    ],
+    demoUrl: "",
+    githubUrl: "",
+    features: [
+      "Commercial Poster.",
+      "Public Service Poster.",
+      "Educational Poster.",
+      "Event Poster.",
+      "Artistic Poster.",
+    ],
+    languages: ["Adobe Photoshop"],
+  },
+
+  {
+    title: "Logo Designs",
+    description:
+      "Logo design is the process of creating a symbol or visual identity that represents a brand, company, organization, or product. Here are some types of logos I have worked on",
+    screenshots: [
+      "images/project/logo/expo.png",
+      "images/project/logo/logokkn.png",
+      "images/project/logo/3d.png",
+      "images/project/logo/logocemilan.png",
+      "images/project/logo/sambal.png",
+    ],
+    image: "images/project/logo/logodepan.png",
+    tech: [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+    ],
+    demoUrl: "",
+    githubUrl: "",
+    features: ["Personal Logo.", "Product Logo", "Event Logo"],
+    languages: ["Adobe Photoshop"],
+  },
+
+  {
+    title: "Banner Designs",
+    description:
+      "Banner design is a visual element used to convey messages or information in a bold and attractive manner, either in a horizontal or vertical format. Banners are typically used in various contexts. Here are some types of banners I have worked on.",
+    screenshots: [
+      "images/project/spanduk/kkn.png",
+      "images/project/spanduk/rw.png",
+      "images/project/spanduk/skacus.jpg",
+      "images/project/spanduk/gebyar.jpg",
+      "images/project/spanduk/workshop.png",
+    ],
+    image: "images/project/spanduk/skacus.jpg",
+    tech: [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+    ],
+    demoUrl: "",
+    githubUrl: "",
+    features: ["Physical Banner.", "Product Promotion Banner", "Event Banner."],
+    languages: ["Adobe Photoshop"],
+  },
+
+  {
+    title: "Thumbnail Youtube Designs",
+    description:
+      "YouTube thumbnail design is the process of creating a small image that represents a video and attracts viewers to click and watch it. Here are some types of thumbnails I have worked on.",
+    screenshots: [
+      "images/project/yt/polsek.png",
+      "images/project/yt/never.jpg",
+      "images/project/yt/cover1.png",
+      "images/project/yt/cover.png",
+    ],
+    image: "images/project/yt/polsek.png",
+    tech: [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+    ],
+    demoUrl: "",
+    githubUrl: "",
+    features: ["Short Movie Thumbnail.", "Content Thumbnail."],
+    languages: ["Adobe Photoshop"],
+  },
+
+  {
+    title: "Product Designs",
+    description:
+      "Product design is the process of creating and developing the form, function, and aesthetics of a product with the goal of meeting the needs and desires of users. Here are some types of product designs I have worked on.",
+    screenshots: [
+      "images/project/product/plastik.png",
+      "images/project/product/kupon.png",
+    ],
+    image: "images/project/product/plastik.png",
+    tech: [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+    ],
+    demoUrl: "",
+    githubUrl: "",
+    features: ["Coupon Product.", "Plastic bag Product."],
+    languages: ["Adobe Photoshop"],
+  },
 ] as const;
 
 export const skillsData = [
@@ -137,7 +296,7 @@ export const skilss = [
   {
     id: 2,
     imgUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg",
   },
   {
     id: 3,
@@ -157,27 +316,29 @@ export const skilss = [
   },
   {
     id: 7,
-    imgUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg",
+    imgUrl: "/images/icon/javascript.svg",
   },
 
   {
     id: 9,
-    imgUrl: "/images/icon/typescript.svg",
-  },
-  {
-    id: 10,
-    imgUrl: "/images/icon/javascript.svg",
-  },
-  {
-    id: 1,
     imgUrl:
       "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
   },
   {
-    id: 6,
+    id: 10,
     imgUrl:
       "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+  },
+  {
+    id: 1,
+    imgUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
+  },
+
+  {
+    id: 6,
+    imgUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg",
   },
 
   // {

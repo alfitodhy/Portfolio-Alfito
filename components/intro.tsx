@@ -61,14 +61,16 @@ export default function Intro() {
         <span className="font-bold">Alfito Dhiyu Priawan.</span>
       </motion.h1>
       <motion.h4
-        className="mb-10 px-4 text-xl font-medium !leading-[1.5] sm:text-2xl"
+        className="mb-10 px-4 text-sm font-medium !leading-[1.5] xl:text-base"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        Welcome to my<span className="font-bold"> Portfolio</span> where I
-        showcase my projects, skills, and passion for coding. Using{" "}
-        <span className="font-bold">Laravel and Codeigniter</span> for
-        developing a website and web applications.
+        Welcome to my<span className="font-bold"> Portfolio,</span> where I
+        showcase my projects, skills, and passion for coding and design. I
+        develop powerful and functional websites and web applications. For
+        design needs, I rely on Adobe Photoshop to create visually captivating
+        and professional results. Each project is a blend of creativity and
+        technology, always aimed at delivering an optimal user experience.
         {/* I enjoy building <span className="italic">sites & apps</span>.  */}
         {/* My focus is
         <span className="underline"> Laravel and React (Next.js)</span>. */}
@@ -91,7 +93,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/cv/cvalfito.pdf"
+          href="/cv/CV Alfito Dhiyu Priawan.pdf"
           download
         >
           Download CV{" "}

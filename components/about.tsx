@@ -23,11 +23,14 @@ export default function About() {
         <BurstBload />
       </div>
       <p>
-        Hello, I'm Alfito Dhiyu Priawan! I am dedicated to continuously
-        expanding my knowledge and skills in{" "}
-        <span className="font-medium">FrontEnd Web Development </span> while
-        also learning about new technologies. I am proficient in developing web
-        applications, creating APIs, and striving to deliver high-quality code.
+        Hello, I’m Alfito Dhiyu Priawan! I am dedicated to continuously
+        enhancing my knowledge and skills in{" "}
+        <span className="font-medium">FullStack Web Development </span> while
+        staying up-to-date with the latest technologies. With expertise in
+        building web applications, I always strive for perfection. Beyond
+        coding, I have a strong passion for graphic design, where I enjoy
+        blending creativity with technology to create engaging and user-friendly
+        digital experiences.
       </p>
     </motion.section>
   );

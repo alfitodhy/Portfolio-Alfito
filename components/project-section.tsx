@@ -70,7 +70,7 @@ const ProjectSection: React.FC = () => {
     >
       <div ref={sectionRef} className="container mx-auto">
         <div className="flex justify-center mb-2">
-          <SectionHeading>🚀 Projects</SectionHeading>
+          <SectionHeading>🚀Web & Design Projects</SectionHeading>
           <BurstBload2 />
         </div>
 
@@ -207,7 +207,7 @@ const ProjectSection: React.FC = () => {
                 ))}
               </div>
               <h4 className="text-lg font-semibold mb-2 dark:text-white">
-                Language and Tools
+                Tools
               </h4>
               <div className="flex justify-between items-end">
                 <div className="flex space-x-2">

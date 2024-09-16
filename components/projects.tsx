@@ -13,7 +13,7 @@ export default function Projects() {
   return (
     <section id="projects" ref={ref} className="scroll-mt-28 mb-28">
       <div className="flex justify-center">
-        <SectionHeading>🚀 Projects</SectionHeading>
+        <SectionHeading>🚀Web & Design Projects</SectionHeading>
         <BurstBload2 />
         <p>
           I've worked on a variety of projects, ranging from small MVPs to
