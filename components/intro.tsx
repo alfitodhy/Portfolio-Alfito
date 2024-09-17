@@ -71,9 +71,7 @@ export default function Intro() {
         design needs, I rely on Adobe Photoshop to create visually captivating
         and professional results. Each project is a blend of creativity and
         technology, always aimed at delivering an optimal user experience.
-        {/* I enjoy building <span className="italic">sites & apps</span>.  */}
-        {/* My focus is
-        <span className="underline"> Laravel and React (Next.js)</span>. */}
+       
       </motion.h4>
       <motion.div
         className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
