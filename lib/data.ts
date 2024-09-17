@@ -59,7 +59,7 @@ export const projectsData = [
   {
     title: "SIAKAD MDA ASY-SYIFA",
     description:
-      "SIAKAD (Academic Information System) application for MDA Asy-Syifa is an application designed to facilitate the management of academic data at Madrasah Diniyah Awaliyah (MDA) Asy-Syifa. This application includes key features such as student data management, class schedule management, grade administration, and attendance reports.",
+      "SIAKAD (Academic Information System) application for MDA Asy-Syifa is an application designed to facilitate the management of academic data at Madrasah Diniyah Awaliyah (MDA) Asy-Syifa. This application includes key features such as student data management, class schedule management, grade administration, and attendance reports. Click here for more information",
     screenshots: [
       "images/project/mdaweb/dashboard.png",
       "images/project/mdaweb/datasiswa.png",
@@ -88,7 +88,7 @@ export const projectsData = [
   {
     title: "PM. PRODIGY",
     description:
-      "Project Management Consulting Prodigy is a digital platform designed to facilitate online project management and consultation. This application allows project managers and consulting teams to communicate, share information, and manage projects efficiently in one place.",
+      "Project Management Consulting Prodigy is a digital platform designed to facilitate online project management and consultation. This application allows project managers and consulting teams to communicate, share information, and manage projects efficiently in one place. Click here for more information",
     screenshots: [
       "images/project/pmprodigy/login.png",
       "images/project/pmprodigy/konsultasi.png",
@@ -116,7 +116,7 @@ export const projectsData = [
   {
     title: "Magazine RUSH",
     description:
-      "This magazine contains information on how to guide the mental well-being of students together with teachers at SMA 5 Kota Bengkulu, tips and tricks for handling panic attacks, as well as references to tourist attractions in Bengkulu.",
+      "This magazine contains information on how to guide the mental well-being of students together with teachers at SMA 5 Kota Bengkulu, tips and tricks for handling panic attacks, as well as references to tourist attractions in Bengkulu. Click here for more information",
     screenshots: [
       "images/project/majalah/2. promkes.png",
       "images/project/majalah/5. klink2.png",
@@ -143,7 +143,7 @@ export const projectsData = [
   {
     title: "Brochure Designs",
     description:
-      "Brochure design is the process of creating printed materials used to convey information concisely and in an organized manner. Brochures are often used for promotional, informational, or educational purposes. Here are some types of brochures I have worked on.",
+      "Brochure design is the process of creating printed materials used to convey information concisely and in an organized manner. Brochures are often used for promotional, informational, or educational purposes. Click here for more information",
     screenshots: [
       "images/project/brosur/brosur.png",
       "images/project/brosur/bull.png",
@@ -167,7 +167,7 @@ export const projectsData = [
   {
     title: "Poster Designs",
     description:
-      "Posters are visual media used to convey messages briefly and clearly to the audience. Here are some types of posters that I have worked on.",
+      "Posters are visual media used to convey messages briefly and clearly to the audience. Click here for more information",
     screenshots: [
       "images/project/poster/absen.png",
       "images/project/poster/movie.png",
@@ -198,7 +198,7 @@ export const projectsData = [
   {
     title: "Logo Designs",
     description:
-      "Logo design is the process of creating a symbol or visual identity that represents a brand, company, organization, or product. Here are some types of logos I have worked on",
+      "Logo design is the process of creating a symbol or visual identity that represents a brand, company, organization, or product. Click here for more information",
     screenshots: [
       "images/project/logo/expo.png",
       "images/project/logo/logokkn.png",
@@ -219,7 +219,7 @@ export const projectsData = [
   {
     title: "Banner Designs",
     description:
-      "Banner design is a visual element used to convey messages or information in a bold and attractive manner, either in a horizontal or vertical format. Banners are typically used in various contexts. Here are some types of banners I have worked on.",
+      "Banner design is a visual element used to convey messages or information in a bold and attractive manner, either in a horizontal or vertical format. Banners are typically used in various contexts. Click here for more information.",
     screenshots: [
       "images/project/spanduk/kkn.png",
       "images/project/spanduk/rw.png",
@@ -240,7 +240,7 @@ export const projectsData = [
   {
     title: "Thumbnail Youtube Designs",
     description:
-      "YouTube thumbnail design is the process of creating a small image that represents a video and attracts viewers to click and watch it. Here are some types of thumbnails I have worked on.",
+      "YouTube thumbnail design is the process of creating a small image that represents a video and attracts viewers to click and watch it. Click here for more information.",
     screenshots: [
       "images/project/yt/polsek.png",
       "images/project/yt/never.jpg",
@@ -260,7 +260,7 @@ export const projectsData = [
   {
     title: "Product Designs",
     description:
-      "Product design is the process of creating and developing the form, function, and aesthetics of a product with the goal of meeting the needs and desires of users. Here are some types of product designs I have worked on.",
+      "Product design is the process of creating and developing the form, function, and aesthetics of a product with the goal of meeting the needs and desires of users. Click here for more information.",
     screenshots: [
       "images/project/product/plastik.png",
       "images/project/product/kupon.png",
