@@ -132,7 +132,7 @@ export const projectsData = [
     demoUrl: "",
     githubUrl: "https://github.com/alfitodhy/Age-and-Gender-Detection",
     features: ["Gender Detection.", "Age Detection.", "Face Recognition"],
-    languages: ["CodeIgniter 3", "Opencv", "Argparse"],
+    languages: ["Python", "Opencv", "Argparse"],
   },
 
   {
