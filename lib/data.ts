@@ -44,14 +44,14 @@ export const experiencesData = [
     location: "Informatics Engineering, GPA. 3.81",
     description: "",
     icon: React.createElement(CgWorkAlt),
-    date: "September 2020 - Mei 2024",
+    date: "September 2020 - May 2024",
   },
   {
     title: "SMK Negeri 1 Bengkulu City",
     location: "Software Engineering",
     description: "",
     icon: React.createElement(CgWorkAlt),
-    date: "Jul 2017 - Mei 2020",
+    date: "Jul 2017 - May 2020",
   },
 ] as const;
 
@@ -111,6 +111,28 @@ export const projectsData = [
       "Online Chat: clients can also communicate with the admin to ask about project management.",
     ],
     languages: ["CodeIgniter 3", "Bootstrap 5", "MYSQL 8.0", "JavaScript"],
+  },
+
+  {
+    title: "Gender And Age Detection",
+    description:
+      "In this Python Project, we can predict the age and gender of a person from detecting a face. I have used Deep Learning to accurately identify the gender and age of a person from a single face image.",
+    screenshots: [
+      "images/project/agedetection/hasil1.jpg",
+      "images/project/agedetection/hasil2.jpg",
+      "images/project/agedetection/hasil3.jpg",
+      "images/project/agedetection/hasil4.jpg",
+      "images/project/agedetection/hasil5.jpg",
+      "images/project/agedetection/hasil6.jpg",
+    ],
+    image: "images/project/agedetection/deteksi.png",
+    tech: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png",
+    ],
+    demoUrl: "",
+    githubUrl: "https://github.com/alfitodhy/Age-and-Gender-Detection",
+    features: ["Gender Detection.", "Age Detection.", "Face Recognition"],
+    languages: ["CodeIgniter 3", "Opencv", "Argparse"],
   },
 
   {
