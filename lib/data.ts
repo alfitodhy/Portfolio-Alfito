@@ -116,7 +116,7 @@ export const projectsData = [
   {
     title: "Gender And Age Detection",
     description:
-      "In this Python Project, we can predict the age and gender of a person from detecting a face. I have used Deep Learning to accurately identify the gender and age of a person from a single face image.",
+      "In this Python Project, we can predict the age and gender of a person from detecting a face. I have used Deep Learning to accurately identify the gender and age of a person from a single face image. Click here for more information.",
     screenshots: [
       "images/project/agedetection/hasil1.jpg",
       "images/project/agedetection/hasil2.jpg",
