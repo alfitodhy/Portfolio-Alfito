@@ -30,7 +30,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/images/alfito.jpg"
+              src="/images/fotoalfito.jpg"
               alt="Alfito Dhiyu Priawan"
               width="192"
               height="192"
